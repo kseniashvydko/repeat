@@ -95,30 +95,30 @@ body {
   font-family: "Circe";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/CRC55.woff") format("woff");
+  src: url("./fonts/CRC55.woff") format("woff");
 }
 @font-face {
   font-family: "Circe Extra Light";
   font-style: normal;
   font-weight: normal;
-  src: local("Circe Extra Light"), url("/fonts/CRC25.woff") format("woff");
+  src: local("Circe Extra Light"), url("./fonts/CRC25.woff") format("woff");
 }
 @font-face {
   font-family: "Circe Light";
   font-style: normal;
   font-weight: normal;
-  src: local("Circe Light"), url("/fonts/CRC35.woff") format("woff");
+  src: local("Circe Light"), url("./fonts/CRC35.woff") format("woff");
 }
 @font-face {
   font-family: "Circe Bold";
   font-style: normal;
   font-weight: normal;
-  src: local("Circe Bold"), url("/fonts/CRC65.woff") format("woff");
+  src: local("Circe Bold"), url("./fonts/CRC65.woff") format("woff");
 }
 .header {
   padding-top: 10px;
   height: 100vh;
-  background-image: url("/img/header/background.png");
+  background-image: url("./img/header/background.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   height: 100vh;
